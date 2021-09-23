@@ -1,3 +1,5 @@
+@import url("//hello.myfonts.net/count/2eb64f");
+
 @font-face {
   font-family: 'AvenirLTStd-Book';
   src: url(//designmattersatartcenter.org/wp-content/themes/designmatters/assets/css/../fonts/2EB64F_0_0.eot);
@@ -84,8 +86,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 body {
-  line-height: 1;
-  color: #777;
+  line-height: 1
 }
 
 ol, ul {
@@ -107,13 +108,11 @@ table {
 }
 
 a {
-  font-weight: 500;
-  color: #F1605D;
-  text-decoration: underline;
+  text-decoration: none
 }
 
 a:active, a:focus, a:hover {
-  /* text-decoration: none; */
+  text-decoration: none
 }
 
 *, *:before, *:after {
@@ -355,22 +354,7 @@ p, .credit-list dd {
   margin-bottom: 15px;
   font-size: 19px;
   line-height: 24px;
-  color: #777;
-}
-
-.paper-cate {
-  margin-bottom: 5px;
-  font-size: 16px;
-  line-height: 18px;
-  color: #777;
-  font-weight: 600;
-}
-
-.papers {
-  margin-bottom: 10px;
-  font-size: 16px;
-  line-height: 18px;
-  color: #777;
+  color: #999
 }
 
 .cite {
@@ -413,6 +397,10 @@ span.highlight-code {
 span.highlight-attribute {
   /* color: #9d1de2; */
   /* opacity: 0.7; */
+}
+
+a {
+  color: #fc4600
 }
 
 .project-entry a:hover, .page-entry .content-block a:hover, .page-entry.content-block a:hover {
@@ -465,11 +453,11 @@ span.highlight-attribute {
 }
 
 .project-entry h4, .page-entry .content-block h4, .page-entry.content-block h4 {
-  margin-bottom: 10px;
+  margin-bottom: 23px;
   padding-top: 10px;
   font-size: 18px;
   line-height: 23px;
-  /* color: #999; */
+  color: #999;
   font-weight: 700
 }
 
@@ -495,12 +483,12 @@ span.highlight-attribute {
   margin-bottom: 12px;
   font-size: 17px;
   line-height: 24px;
-  /* color: #999; */
+  color: #999;
   list-style-type: none !important;
 }
 
 .project-entry p strong, .page-entry .content-block p strong, .page-entry.content-block p strong, .project-entry ul:not(.crossroads) li strong, .page-entry .content-block ul:not(.crossroads) li strong, .page-entry.content-block ul:not(.crossroads) li strong, .project-entry ol li strong, .page-entry .content-block ol li strong, .page-entry.content-block ol li strong {
-  /* color: #666; */
+  color: #666;
   font-weight: 700 list-style-type: none;
 }
 
@@ -670,7 +658,7 @@ span.highlight-attribute {
 .narrow-block p {
   font-size: 19px;
   line-height: 23px;
-  /* color: #999 */
+  color: #999
 }
 
 .separator {

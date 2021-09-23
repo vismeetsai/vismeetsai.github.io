@@ -358,21 +358,6 @@ p, .credit-list dd {
   color: #777;
 }
 
-.paper-cate {
-  margin-bottom: 5px;
-  font-size: 16px;
-  line-height: 18px;
-  color: #777;
-  font-weight: 600;
-}
-
-.papers {
-  margin-bottom: 10px;
-  font-size: 16px;
-  line-height: 18px;
-  color: #777;
-}
-
 .cite {
   font-size: 12px !important;
   line-height: 21px !important;
