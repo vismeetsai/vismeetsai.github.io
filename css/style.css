@@ -112,6 +112,10 @@ a {
   text-decoration: underline;
 }
 
+.papers a {
+  color: #777;
+}
+
 a:active, a:focus, a:hover {
   /* text-decoration: none; */
 }
